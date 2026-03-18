@@ -1,3 +1,6 @@
+
+patch 1 push- trail one
+
 Hi- GITHUB changes
 hi - gitbash changes
 2026
@@ -5,8 +8,11 @@ hi - gitbash changes
 2027
 2028
 
+<<<<<<< HEAD
 
 Adding new line to test
 
 pp
 
+=======
+>>>>>>> 4aa27d70084c3df443563f544cf300482b5b874d
